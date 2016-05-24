@@ -2,3 +2,5 @@
 A utility for extracting multiple Garry's Mod addons (.gma) in a folder
 
 **massgmad is released under the MIT License.**
+
+Garry's Mod is a registered trademark of Facepunch Studios. massgmad and its author are not affiliated with Facepunch Studios.
