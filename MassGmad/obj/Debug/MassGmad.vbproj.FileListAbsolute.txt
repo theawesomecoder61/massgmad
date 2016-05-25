@@ -1,0 +1,11 @@
+c:\users\andrewmellen\documents\visual studio 2012\Projects\MassGmad\MassGmad\bin\Debug\MassGmad.exe.config
+c:\users\andrewmellen\documents\visual studio 2012\Projects\MassGmad\MassGmad\bin\Debug\MassGmad.exe
+c:\users\andrewmellen\documents\visual studio 2012\Projects\MassGmad\MassGmad\bin\Debug\MassGmad.pdb
+c:\users\andrewmellen\documents\visual studio 2012\Projects\MassGmad\MassGmad\bin\Debug\MassGmad.xml
+c:\users\andrewmellen\documents\visual studio 2012\Projects\MassGmad\MassGmad\obj\Debug\MassGmad.Form1.resources
+c:\users\andrewmellen\documents\visual studio 2012\Projects\MassGmad\MassGmad\obj\Debug\MassGmad.Resources.resources
+c:\users\andrewmellen\documents\visual studio 2012\Projects\MassGmad\MassGmad\obj\Debug\MassGmad.vbproj.GenerateResource.Cache
+c:\users\andrewmellen\documents\visual studio 2012\Projects\MassGmad\MassGmad\obj\Debug\MassGmad.exe
+c:\users\andrewmellen\documents\visual studio 2012\Projects\MassGmad\MassGmad\obj\Debug\MassGmad.xml
+c:\users\andrewmellen\documents\visual studio 2012\Projects\MassGmad\MassGmad\obj\Debug\MassGmad.pdb
+C:\Users\AndrewMellen\documents\visual studio 2012\Projects\MassGmad\MassGmad\obj\Debug\MassGmad.NoGmod.resources
