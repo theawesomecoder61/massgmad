@@ -1,7 +1,7 @@
 # massgmad
 A utility for extracting multiple Garry's Mod addons (.gma) in a folder
 
-![screenshot 1](http://i.imgur.com/SDtYUlL.png)
+<img src="http://i.imgur.com/SDtYUlL.png" width="250">
 
 **massgmad is released under the MIT License.**
 
