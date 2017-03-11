@@ -2,6 +2,7 @@
 A utility that extracts multiple Garry's Mod addons (`.gma`) in a user-specified folder
 
 ![](http://i.imgur.com/a4yGpM0.png)
+massgmad version 2.0 running on Windows 10
 
 ## Downloads
 Go to the [releases page](https://github.com/theawesomecoder61/massgmad/releases) for the current version and a nice changelog.
