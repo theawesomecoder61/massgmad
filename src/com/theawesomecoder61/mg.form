@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="com.theawesomecoder61.mg">
+  <grid id="27dc6" binding="panel" layout-manager="GridLayoutManager" row-count="6" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="1024" height="357"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="628d7" class="javax.swing.JButton" binding="inFolderBtn">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <label value="Locate Input Folder"/>
+          <text value="Locate Input Folder"/>
+        </properties>
+      </component>
+      <component id="2288b" class="javax.swing.JTextField" binding="inFolderTF">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="338" height="37"/>
+          </grid>
+        </constraints>
+        <properties>
+          <editable value="false"/>
+          <text value="locate input folder --&gt;"/>
+        </properties>
+      </component>
+      <component id="68f97" class="javax.swing.JTextField" binding="outFolderTF">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="338" height="37"/>
+          </grid>
+        </constraints>
+        <properties>
+          <editable value="false"/>
+          <text value="locate output folder --&gt;"/>
+        </properties>
+      </component>
+      <component id="359a0" class="javax.swing.JButton" binding="outFolderBtn">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <label value="Locate Output Folder"/>
+          <text value="Locate Output Folder"/>
+        </properties>
+      </component>
+      <component id="7cb3f" class="javax.swing.JButton" binding="gmadBtn">
+        <constraints>
+          <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <label value="Locate gmad"/>
+          <text value="Locate gmad"/>
+          <verticalTextPosition value="0"/>
+        </properties>
+      </component>
+      <component id="a19ac" class="javax.swing.JTextField" binding="gmadTF">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="338" height="37"/>
+          </grid>
+        </constraints>
+        <properties>
+          <editable value="false"/>
+          <text value="locate gmad --&gt;"/>
+        </properties>
+      </component>
+      <component id="f1e2a" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+            <preferred-size width="338" height="86"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value="Found gma Files"/>
+        </properties>
+      </component>
+      <component id="4e178" class="javax.swing.JButton" binding="processBtn">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="338" height="49"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value="Extract All gma Files"/>
+        </properties>
+      </component>
+      <scrollpane id="9afc7">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="7" hsize-policy="7" anchor="0" fill="3" indent="0" use-parent-layout="false">
+            <preferred-size width="338" height="200"/>
+          </grid>
+        </constraints>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <component id="364f" class="javax.swing.JTextArea" binding="logTA">
+            <constraints/>
+            <properties>
+              <editable value="false"/>
+              <lineWrap value="true"/>
+              <text value="massgmad | version 2.0&#10;This is an output log."/>
+            </properties>
+          </component>
+        </children>
+      </scrollpane>
+      <scrollpane id="24e24">
+        <constraints>
+          <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="7" hsize-policy="7" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <component id="792f1" class="javax.swing.JList" binding="gmasList">
+            <constraints/>
+            <properties/>
+          </component>
+        </children>
+      </scrollpane>
+    </children>
+  </grid>
+</form>

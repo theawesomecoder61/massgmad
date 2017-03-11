@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="massgmad:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/massgmad_jar</output-path>
+    <root id="archive" name="massgmad.jar">
+      <element id="module-output" name="massgmad" />
+    </root>
+  </artifact>
+</component>
