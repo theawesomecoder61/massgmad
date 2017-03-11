@@ -1,5 +1,5 @@
 # massgmad
-A utility that extracts multiple Garry's Mod addons (`.gma`) in a user-specified folder
+A utility that extracts all Garry's Mod addons (`.gma`) in a user-specified folder
 
 ![](http://i.imgur.com/a4yGpM0.png)
 massgmad version 2.0 running on Windows 10
